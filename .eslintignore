@@ -1,0 +1,8 @@
+node_modules
+public
+dist
+.next
+coverage
+.eslintrc.js
+changelog.config.js
+tsconfig.json
